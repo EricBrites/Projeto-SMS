@@ -2,9 +2,9 @@ import pandas as pd
 from twilio.rest import Client
 
 # Your Account SID from twilio.com/console
-account_sid = "ACe33147468c5c898cb87be16dcd2c12aa"
+account_sid = "ACe33147468c5c838cb87be16dcd2c12aa"
 # Your Auth Token from twilio.com/console
-auth_token  = "7bc7be35bb30f472f8d107b4fdd1d71c"
+auth_token  = "7bc7be35bb30f472f8d107b4cdd1d71c"
 
 client = Client(account_sid, auth_token)
 
